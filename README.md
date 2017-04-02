@@ -1,2 +1,3 @@
 # hello-world
 An introduction to GitHub for me ....
+A nice interface. Last time we used SCCS, not all that different.
